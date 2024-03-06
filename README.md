@@ -1,4 +1,4 @@
-# Welcome 🖐 to the Movie App
+# CineSearch - Movie App
 Movie website project where users can come and see the information about any movie from this website.
 
 <br>
