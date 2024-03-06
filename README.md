@@ -9,3 +9,5 @@ Movie website project where users can come and see the information about any mov
 
 <br>
 
+![Live Demo](https://moviesight.netlify.app/)
+
